@@ -13,6 +13,11 @@ public class SampleGit {
 	private void method() {
 		// TODO Auto-generated method stub
 
+	
+	}
+	private void metho() {
+		// TODO Auto-generated method stub
+
 	}
 public static void main(String[] args) {
 	

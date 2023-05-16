@@ -10,6 +10,10 @@ public class SampleGit {
 		// TODO Auto-generated method stub
 
 	}
+	private void method() {
+		// TODO Auto-generated method stub
+
+	}
 public static void main(String[] args) {
 	
 }

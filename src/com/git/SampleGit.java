@@ -15,6 +15,12 @@ public class SampleGit {
 		// TODO Auto-generated method stub
 
 	}
+	private void me1() {
+		// TODO Auto-generated method stub
+
+	}
+	
+	
 public static void main(String[] args) {
 	
 }

@@ -15,7 +15,7 @@ public class SampleGit {
 		// TODO Auto-generated method stub
 
 	}
-	private void me1() {
+	private void me2() {
 		// TODO Auto-generated method stub
 
 	}

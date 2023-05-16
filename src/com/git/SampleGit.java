@@ -10,7 +10,7 @@ public class SampleGit {
 		// TODO Auto-generated method stub
 
 	}
-	private void metho() {
+	private void method() {
 		// TODO Auto-generated method stub
 
 	}

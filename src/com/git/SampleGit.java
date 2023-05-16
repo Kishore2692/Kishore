@@ -6,10 +6,6 @@ public class SampleGit {
 		System.out.println();
 
 	}
-	private void me() {
-		// TODO Auto-generated method stub
-
-	}
 	private void method() {
 		// TODO Auto-generated method stub
 
